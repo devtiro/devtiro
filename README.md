@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hey, we're Devtiro!
+- 🚀 Helping New Devs Get Started
+- 💪 Helping Experienced Devs Level Up
+- 🧠 Software + Career Tips
+- 🔗  [Check out our stuff!](https://www.devtiro.com/links)
+- ✅ Available for work and collaborations 👍
+- 📧 For business inquiries: contact@devtiro.com
+---
+>Devtiro’s mission is to put a career in software development in reach of anyone and everyone. We do this by sharing our professional knowledge and experience with the communities in which we live and work, opening up the life-changing industry of software development to all.
 
-<!--
-**devtiro/devtiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>Devtiro will build an ever-growing community to change the future of software professionals and the industry they work in. We will make information freely available to empower individuals to make informed decisions.
+---
