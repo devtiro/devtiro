@@ -2,7 +2,6 @@
 - 🚀 Helping New Devs Get Started
 - 💪 Helping Experienced Devs Level Up
 - 🧠 Software + Career Tips
-- 🔗  [Check out our stuff!](https://www.devtiro.com/links)
 - ✅ Available for work and collaborations 👍
 - 📧 For business inquiries: contact@devtiro.com
 ---
